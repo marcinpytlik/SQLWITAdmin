@@ -1,0 +1,2 @@
+# SQLWITAdmin
+ Administracja SQL Server
