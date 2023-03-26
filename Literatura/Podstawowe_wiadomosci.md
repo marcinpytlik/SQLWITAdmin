@@ -1,6 +1,6 @@
 Zagadnienia
 Zalety i wady modeli:
-model realcyjny
+model relacyjny
 model obiektowy
 model jednorodny
 Wszystko co będziemy mówić dotyczy ANSI SQL 99
