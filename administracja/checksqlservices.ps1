@@ -1,0 +1,1 @@
+Get-Service -displayname *SQL* | Select-Object name, displayname, status
