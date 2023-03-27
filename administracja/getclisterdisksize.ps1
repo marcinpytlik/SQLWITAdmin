@@ -1,0 +1,1 @@
+Get-CimInstance -ClassName Win32_Volume | Select-Object BlockSize,Description,SystemName,DriveLetter
